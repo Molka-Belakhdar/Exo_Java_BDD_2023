@@ -11,7 +11,7 @@
     <input type="submit" value="Afficher">
 </form>
 
-<%-- Récupération de la valeur saisie par l'utilisateur --%>
+<%-- Récupération de la valeur saisie par l'utilisateur A --%>
 <% String valeur = request.getParameter("valeur"); %>
     
 <%-- Vérification de l'existence de la valeur --%>
